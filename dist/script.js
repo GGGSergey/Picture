@@ -653,7 +653,7 @@ const modals = () => {
   bindModal(".button-consultation", ".popup-consultation", ".popup-consultation .popup-close");
   bindModal(".fixed-gift", ".popup-gift", ".popup-gift .popup-close", true);
   openByScroll(".fixed-gift");
-  showModalByTime(".popup-consultation", 5000);
+  showModalByTime(".popup-consultation", 20000);
 };
 /* harmony default export */ __webpack_exports__["default"] = (modals);
 
