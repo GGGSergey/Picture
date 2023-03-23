@@ -1776,7 +1776,7 @@ h4 {
         position: fixed;
         text-align: center;
         left: 50%;
-        top: 5%;
+        top: 10%;
         background-color: #ededed;
         border-radius: 4px;
         transform: translateX(-50%) !important;
